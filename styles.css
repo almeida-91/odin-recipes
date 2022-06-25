@@ -17,12 +17,13 @@ h1{
 }
 
 li.reclist{
+    display: block;
     padding: 5px;
     border: 1px solid orange;
     background-color: #ffff00;
-    text-align:left;
+    text-align:center;
     list-style-position:inside;
-    margin: auto;
+    margin: auto auto 5px auto;
 }
 
 img{
