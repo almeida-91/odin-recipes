@@ -7,7 +7,8 @@ h1{
 
 li.reclist{
     background-color: #ffff00;
-    text-align: center;
+    text-align:left;
+    list-style-position:inside;
 }
 
 img{
@@ -43,4 +44,9 @@ p.desc{
 .desc.mini{
     font-size: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.backbut{
+    margin:0 auto;
+    display: block;
 }
